@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE params SYSTEM "D:/Work/University/Semester 6/AI/Project/Delieverable 1/torcs/torcs/config/params.dtd">
+<?xml-stylesheet type="text/xsl" href="file:///D:/Work/University/Semester 6/AI/Project/Delieverable 1/torcs/torcs/config/style.xsl"?>
+
+<params name="Results">
+  <section name="Header">
+    <attnum name="date" val="1.74681e+009"/>
+  </section>
+
+  <section name="Current">
+    <attnum name="current track" val="1"/>
+    <attnum name="current race" val="1"/>
+    <attnum name="current driver" val="1"/>
+  </section>
+
+  <section name="G-Speedway">
+    <section name="Drivers">
+      <section name="1">
+        <attstr name="dll name" val="scr_server"/>
+        <attnum name="index" val="0"/>
+      </section>
+
+    </section>
+
+    <section name="Results">
+      <section name="Quick Race">
+        <attnum name="laps" val="3"/>
+        <section name="Rank">
+          <section name="1">
+            <attstr name="name" val="scr_server 1"/>
+            <attstr name="car" val="Mitsubishi Lancer EVO VI WRC"/>
+            <attnum name="index" val="0"/>
+            <attnum name="laps" val="3"/>
+            <attnum name="time" val="156.046"/>
+            <attnum name="best lap time" val="45.508"/>
+            <attnum name="top speed" val="65.2182"/>
+            <attnum name="dammages" val="45"/>
+            <attnum name="pits stops" val="0"/>
+            <attstr name="module" val="scr_server"/>
+            <attnum name="idx" val="0"/>
+            <attnum name="points" val="0"/>
+          </section>
+
+        </section>
+
+      </section>
+
+    </section>
+
+  </section>
+
+  <section name="Standings">
+    <section name="1">
+      <attstr name="name" val="scr_server 1"/>
+      <attstr name="module" val="scr_server"/>
+      <attnum name="idx" val="0"/>
+      <attnum name="points" val="0"/>
+    </section>
+
+  </section>
+
+</params>
