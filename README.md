@@ -35,19 +35,6 @@ This project implements an AI racing driver that learns from human driving behav
 - **🎯 Safety Systems**: Emergency collision avoidance and backward-facing detection
 - **📝 Comprehensive Logging**: Detailed recording of all driving sessions for analysis
 
-## 📸 Screenshots
-
-### AI Driver in Action
-<!-- Insert AI racing screenshot here -->
-*[AI Driver Racing Screenshot Placeholder]*
-
-### Training Data Dashboard
-<!-- Insert training metrics screenshot here -->
-*[Model Training Results Placeholder]*
-
-### Manual Override Interface
-<!-- Insert manual control screenshot here -->
-*[Manual Control Interface Placeholder]*
 
 ## 🏗️ System Architecture
 
